@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "6632de57-fbb7-1f95-954f-1f0252198292",
+    "Name": "TurknetPrep",
+    "ModifiedOnUtc": "\/Date(1675062844000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}
